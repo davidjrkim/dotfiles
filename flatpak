@@ -1,0 +1,23 @@
+IntelliJ IDEA Ultimate	com.jetbrains.IntelliJ-IDEA-Ultimate	2021.3.3	stable	system
+OBS Studio	com.obsproject.Studio	27.2.4	stable	system
+Bottles	com.usebottles.bottles	2022.3.14-trento-3	stable	system
+Steam	com.valvesoftware.Steam	1.0.0.74	stable	system
+Minecraft Bedrock Launcher	io.mrarm.mcpelauncher	v0.3.2	stable	system
+Freedesktop Platform	org.freedesktop.Platform	21.08.12	21.08	system
+i386	org.freedesktop.Platform.Compat.i386		21.08	system
+Mesa	org.freedesktop.Platform.GL.default	21.3.8	21.08	system
+nvidia-510-54	org.freedesktop.Platform.GL.nvidia-510-54		1.4	system
+default	org.freedesktop.Platform.GL32.default		21.08	system
+nvidia-510-54	org.freedesktop.Platform.GL32.nvidia-510-54		1.4	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		21.08	system
+i386	org.freedesktop.Platform.ffmpeg_full.i386		21.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	system
+Freedesktop SDK	org.freedesktop.Sdk	21.08.12	21.08	system
+GNU Image Manipulation Program	org.gimp.GIMP	2.10.30	stable	system
+GNOME Application Platform version 41	org.gnome.Platform		41	system
+i386	org.gnome.Platform.Compat.i386		41	system
+Adwaita theme	org.kde.KStyle.Adwaita		5.15-21.08	system
+KDE Application Platform	org.kde.Platform		5.15-21.08	system
+DXVK	org.winehq.Wine.DLLs.dxvk	1.10.1	stable-21.08	system
+Gecko	org.winehq.Wine.gecko		stable-21.08	system
+Mono	org.winehq.Wine.mono		stable-21.08	system
